@@ -1,0 +1,3 @@
+
+extension ObjectMethods on Object {
+}
